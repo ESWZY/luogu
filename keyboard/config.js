@@ -1,10 +1,10 @@
 var drumconfig = {
-    Keyboard: [90, 68, 83, 80, 75, 74, 81, 84, 70, 76, 89, 87],
-    Filename: ["zha.wav", "da.wav", "du.wav", "pu.wav", "kuang.wav", "kuang.wav", "qi.wav", "tai.wav", "duo.wav", "ling.wav", "yi.wav", "qi2.wav"],
-    ChineseName: ["扎", "大", "嘟", "扑", "匡", "倾", "七", "台", "多", "令", "衣", "七"],
-    VolumeScale: [1, 1, 0.6, 1, 0.6, 0.2, 0.75, 1, 1, 1, 1, 0.1],
-    Continuity: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    EnglishName: ["Z", "D", "S", "P", "K", "J", "Q", "T", "F", "L", "Y", "W"]
+    Keyboard:    [90,        68,       83,       80,       75,          74,          81,       84,        70,        76,         89,       87],
+    Filename:    ["zha.wav", "da.wav", "du.wav", "pu.wav", "kuang.wav", "kuang.wav", "qi.wav", "tai.wav", "duo.wav", "ling.wav", "yi.wav", "qi2.wav"],
+    ChineseName: ["扎",       "大",     "嘟",     "扑",      "匡",        "倾",        "七",      "台",      "多",      "令",        "衣",     "七"],
+    VolumeScale: [1,          1,        0.6,     1,         0.6,        0.2,         0.75,      1,        1,         1,           1,       0.1],
+    Continuity:  [0,          0,        1,       0,         0,          0,           0,         0,        0,         0,           0,       0],
+    EnglishName: ["Z",       "D",       "S",     "P",       "K",        "J",         "Q",       "T",      "F",       "L",         "Y",     "W"]
 }
 
 var GUIconfig = {
